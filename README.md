@@ -1,3 +1,3 @@
-# xml-validator
+# xml-parser
 
-Simple xml-validator focused on simplicity and size.
+University assigment
